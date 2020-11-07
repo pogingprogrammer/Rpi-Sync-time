@@ -1,4 +1,4 @@
-# pogi
+# PURPOSE
 ROS TIME PUBLISHER AND TIME SUBSCRIBER FOR RPI AND DESKTOP/LAPTOP COMMS
 I used this because i had a problem setting up NTP server in my RPi to sync time with my laptop for my thesis project. 
 
